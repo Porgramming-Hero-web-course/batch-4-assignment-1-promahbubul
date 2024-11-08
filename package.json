@@ -1,0 +1,19 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "problem1": "ts-node-dev --respawn --transpile-only problem-1.ts",
+    "problem2": "ts-node-dev --respawn --transpile-only problem-2.ts",
+    "problem3": "ts-node-dev --respawn --transpile-only problem-3.ts",
+    "problem4": "ts-node-dev --respawn --transpile-only problem-4.ts",
+    "problem5": "ts-node-dev --respawn --transpile-only problem-5.ts",
+    "problem6": "ts-node-dev --respawn --transpile-only problem-6.ts",
+    "problem7": "ts-node-dev --respawn --transpile-only problem-7.ts",
+    "problem8": "ts-node-dev --respawn --transpile-only problem-8.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
